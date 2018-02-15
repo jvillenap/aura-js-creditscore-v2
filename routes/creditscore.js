@@ -59,7 +59,7 @@ exports.list = function(req, res){
             console.log("Query execution results: " + results);
             console.log("Query execution fields: " + fields);
             resultData = {
-                "MESSAGE" : "SUCCESS communicating with DB"
+                "MESSAGE" : "SUCCESS communicating with DB XXX"
             };
         }
 
